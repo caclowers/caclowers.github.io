@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+		<meta content="utf-8" http-equiv="encoding">
+		<title>Prime Digital Academy Application... Submitted For Your Approval</title>
+		<link rel="stylesheet" type="text/css" href="stylesheet.css">
+	</head>
+ 
+ <body>
+		<div id="container">
+			<div id="content-contact">
+				<h1>Casey A. Clowers</h1>
+				<h2>8221 W. 34th Street</h2>
+				<h2>St. Louis Park, MN 55426</h2>
+				<h2>906-250-4205</h2>
+			</div>
+      
+      <div id="content-summary">
+				<h3>Profile</h3>
+				<p>Curious, Resourceful, and Super Hip.</p>
+			</div>
+
+      <div id="content-professional"> Professional Experience
+				<div id="content-Oshkosh">
+					<h3>City of Oshkosh</h3>
+					<div class="block-date">
+							<h4>Water Filtration Operator Class II</h4>
+							<h4>February 2012 - June 2017</h4>
+					</div>		
+					<div class"block-content">
+							<ul>	
+								<li>Water and Wastewater Plant Operations</li>
+								<li>Laboratory detection of pathogenic microorganisms</li>
+								<li>Water analysis for levels of Alkalinity, Hardness, pH, Langelier Index (Stability), Odor, Chlorine Residual, Iron, Sulfates, Fluoride</li>
+								<li>Wastewater analysis for levels of TSS/VSS, TS/VS, Ammonia, Nitrate, Phosphorus, DO, BOD, Chlorine Residual</li>
+								<li>Distribution/Collection System/Pump Troubleshooting and Maintenance</li>
+							</ul>	
+					</div>
+				</div>
+
+
+				<div id="content-FLLC">
+					<h3>Fortune Lake Lutheran Camp</h3>
+					<div class="block-date">
+							<h4>Health Officer/Head Lifeguard</h4>
+							<h4>Summer 2005 and Summer 2007</h4>
+					</div>		
+					<div class"block-content">
+							<ul>	
+								<li>Maintain Current CPR and First Aid certifications for all camp staff</li>
+								<li>Assist with CPR and First Aid training for all camp staff</li>
+								<li>Maintain written medical records for all camp staff and campers</li>
+								<li>Administer all scheduled prescription and "as needed" medications</li>
+								<li>Administer First Aid and/or CPR as needed, act as liason to EMT or personnel as necessary</li>
+							</ul>	
+					</div>
+				</div>
+
+
+				<div id="content-Pathways">
+					<h3>Pathways Mental Health</h3>
+					<div class="block-date">
+							<h4>Life Skills Technician</h4>
+							<h4>2001-2005</h4>
+					</div>		
+					<div class"block-content">
+							<ul>
+    							<li>Assist with Activities of Daily Living (ADL's)</li>
+        							<ol>
+              							<li>Meal Preparation</li>
+             							<li>Laundry Assistance</li>
+              							<li>Household Cleanliness and Upkeep</li>
+										<li>Personal Hygiene</li>
+										<li>Employment Mentorship</li>
+										<li>Recreational Opportunities</li>
+        							</ol>
+    							</li>
+								<li>Interpersonal Conflict Resolution</li>
+								<li>Licensed Physical Intervention Trainer</li>
+              </ul>
+						
+					</div>
+				</div>
+			</div>
+			
+
+			
+		</div>
+
+	</body>
+</html>
