@@ -1,0 +1,23 @@
+body {
+    font: 18px Charter; Sans-serif
+    background: url(image5.jpeg);
+}
+
+#container {
+    width: 750px;
+    margin: 24px;
+}
+
+#content-contact {
+    width: 650px;
+    padding: 0px;
+}
+
+#content-professional {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.date {
+	float: center;
+}
