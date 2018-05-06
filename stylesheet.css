@@ -1,5 +1,5 @@
 body {
-    font: 18px 'Futura', Arial;
+    font: 18px 'Futura', 'Arial';
     background-color: lightblue;
 }
 
@@ -11,7 +11,6 @@ body {
     position: relative;
     text-align:center;
     background-color: lightblue;
-    background-image: url(image5.jpeg);
 }
 
 #page-wrap {
