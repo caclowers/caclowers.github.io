@@ -1,20 +1,25 @@
 body {
     font: 18px Futura; Arial
-    background-image: url(image5.jpeg);
+    background: url(image5.jpeg); 
     background-color: lightblue;
 }
 
 #container {
     width: 550px;
+    height: 675px;
     padding: auto;
     margin: auto;
+    text: black;
     text-align:center;
-    background-color: aliceblue;
+    background-color: lightblue;
 }
 
+#page-wrap {
+    width: 550px
+    margin: auto;
+}
 #content-contact {
-    width: 550px;
-   
+    position: auto;
 }
 
 #content-summary {
@@ -29,11 +34,6 @@ body {
     transform: translate(-50%, -50%);
 }
 
-.background {
-    color: black;
-    opacity: 0.2;
-
-}
 #content-education {
     font-size: 1em;
     font-weight: bold;
