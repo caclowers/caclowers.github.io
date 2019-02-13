@@ -1,5 +1,4 @@
 # hello world
 
-## Greetings! My name is Casey Clowers.
-
-
+## Greetings! My name is Casey Clowers
+ 
